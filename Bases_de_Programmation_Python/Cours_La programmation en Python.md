@@ -9,7 +9,7 @@
 Lors des débuts de l'informatique, dans l'immédiat après-guerre, on travaillait directement en langage machine ce qui demandait une connaissance technique très spécifique. Le besoin s'est fait sentir de faciliter la tâche du programmeur en créant un langage intermédiaire. Le Fortran créé par John Backus en 1954 fut l'un des tous premiers. De très nombreux langages suivirent ; le Python, introduit **en 1991 par Guido van Rossum** s'avère être l'un des mieux adaptés à l'enseignement.
 
 <p align="center">
-<img src="Assets/Guido_van_Rossum.png" width="500" height="900"> 
+<img src="Assets/Guido_van_Rossum.png" width="500" height="1200"> 
 </p>
 
 Guido van Rossum a créé le langage Python mais pour le faire évoluer il a eu l'excellente idée de former autour de lui une **communauté Python** dont il est dévenu le Benevolent Dictator for Life (dictateur bienveillant à vie). À ce titre-là, il validait lui-même toute proposition d'amélioration de ce langage. En juillet 2018, il décida de laisser la gouvernance tout en restant un conseiller des plus éclairés. Après un certain désarroi parmi la communauté, six propositions d'une nouvelle gouvernance furent mises au choix de ses membres. On mit en place un conseil de direction qui veille toujours à la poursuite de l'évolution du langage.
@@ -472,15 +472,15 @@ Le module **turtle** permet de tracer des figures comme on le ferait avec un sty
 Les principales fonctions mises à votre disposition dans le module turtle sont les suivantes :
 
 **reset()** : efface l’écran, recentre la tortue et remet les variables à zéro
-		
+​		
 **forward(distance)** : avance d’une distance donnée en pixel
-	
+​	
 **backward(distance)** : recule d’une distance donnée en pixel
-	
+​	
 **left(angle)** : pivote vers la gauche d'un angle en degrés
-	
+​	
 **right(angle)** : pivote vers la droite d'un angle en degrés
-	
+​	
 **up()**: relève le crayon (pour pouvoir avancer sans dessiner)
 
 **down()** : abaisse le crayon (pour recommencer à dessiner)
